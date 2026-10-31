@@ -34,4 +34,4 @@ None so far
 
 **Please note, I am a college student and don't have a whole lot of time on my hands so this may take a while to complete.**
 Feel free to contribute yourself if you wish to see this done sonner! 
-Also, I'm not a very talented artist so if something looks off or you think something couldn't been done better, feel free to put in a pull request with your changes!
+Also, I'm not a very talented artist so if something looks off or you think something could've been done better, feel free to put in a pull request with your changes!
